@@ -1,0 +1,4 @@
+[console_scripts]
+torpy_cli = torpy.cli.console:main
+torpy_socks = torpy.cli.socks:main
+
